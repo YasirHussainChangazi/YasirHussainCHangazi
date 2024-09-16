@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasir Hussain Changazi</h1>
-<h3 align="center">Experienced DevOps specializing in front-end + Backend technologies.</h3>
+<h3 align="center">DevOps engineer with growing expertise in front-end, back-end, networking, and cybersecurity, focused on delivering secure and integrated solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirhussainchangazi&label=Profile%20views&color=0e75b6&style=flat" alt="yasirhussainchangazi" /> </p>
 
